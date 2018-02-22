@@ -21,11 +21,14 @@ To run the server side application:
 ```
 ./ufs tests/ 8080
 ```
+---Screenshot here----
 change ```tests/``` and ```8080``` to be your directory and port number of choice.
+
 
 ### Client
 To run the client side application:
 ```
-./ufc 127.0.0.1 8080
+./ufc 1m.txt 127.0.0.1 8080
 ```
-change ```127.0.0.1``` and ```8080``` to match the server's IP address and port number.
+---Screenshot here ----
+change ```127.0.0.1``` and ```8080``` to match the server's IP address and port number. Change ```1m.txt``` to match the file wanted to transfer from the server.
