@@ -6,11 +6,11 @@ A server side application that listens for requests from clients and transfers r
 Sample text files are provided in the ```tests``` folder in the server application.
 Start by compiling the files.
 
-### In the Server machine
+### On the Server Machine
 ```
 gcc ufs.c -o ufs
 ```
-### In the Client machine
+### On the Client Machine
 ```
 gcc ufc.c -o ufc
 ```
