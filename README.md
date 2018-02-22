@@ -21,7 +21,7 @@ To run the server side application:
 ```
 ./ufs tests/ 8080
 ```
-![Alt text](../SShots/server.png)
+![Alt text](SShots/server.png)
 change ```tests/``` and ```8080``` to be your directory and port number of choice.
 
 ### Client
@@ -29,7 +29,7 @@ To run the client side application:
 ```
 ./ufc 1m.txt 127.0.0.1 8080
 ```
-![Alt text](../SShots/client.png)
+![Alt text](SShots/client.png)
 change ```127.0.0.1``` and ```8080``` to match the server's IP address and port number. Change ```1m.txt``` to match the file wanted to transfer from the server.
 
 ## Result
