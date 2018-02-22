@@ -24,7 +24,6 @@ To run the server side application:
 ---Screenshot here----
 change ```tests/``` and ```8080``` to be your directory and port number of choice.
 
-
 ### Client
 To run the client side application:
 ```
@@ -32,3 +31,7 @@ To run the client side application:
 ```
 ---Screenshot here ----
 change ```127.0.0.1``` and ```8080``` to match the server's IP address and port number. Change ```1m.txt``` to match the file wanted to transfer from the server.
+
+## Result
+Comparing the results show that the file received on the client side is the same as the file stored on the server side.
+---Screenshot here----
